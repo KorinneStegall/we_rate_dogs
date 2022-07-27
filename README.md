@@ -8,6 +8,8 @@
 
 **Packages Used:** pandas, numpy, matplotlib, seaborn, tweepy, requests, json
 
+[Python Notebook](https://github.com/KorinneStegall/we_rate_dogs/blob/cda85ce458d9ff544281b370212d6c2c3255faaa/Data%20Wrangling%20Project.ipynb)
+
 ## Table of Contents:
 - [Scraping](#1)
 - [Cleaning](#2)
